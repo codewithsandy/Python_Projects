@@ -1,0 +1,5 @@
+DINO GAME IN PYTHON
+- pygame module requried
+
+The dino game is a simple infinite runner, which sees you jump over cacti, and dodge underneath obstacles. This was designed under python pygame module.
+
