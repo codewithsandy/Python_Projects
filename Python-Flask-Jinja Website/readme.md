@@ -16,6 +16,7 @@ I would gladly accept pointers from others to improve, simplify, or make the cod
 <hr>
 
 ## What learn in this blog website
+- Create Website using python-flask-jinja
 - How to use bootstrap template.
 - How to use Flask-jinja syntax
 - Login and Logout working
